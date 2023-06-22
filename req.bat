@@ -1,0 +1,13 @@
+python -m pip install flet
+python -m pip install certifi
+python -m pip install chardet
+python -m pip install idna
+python -m pip install requests
+python -m pip install selenium
+python -m pip install urllib3
+python -m pip install ipapi
+python -m pip install func_timeout
+python -m pip install random-word
+python -m pip install pyyaml
+python -m pip install notifiers
+python -m pip install python-slugify
